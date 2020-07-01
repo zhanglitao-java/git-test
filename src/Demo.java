@@ -1,0 +1,9 @@
+public class Demo {
+    public static void main(String[] args) {
+        System.out.println("涛神年薪二十万");
+        System.out.println("涛神年薪二十万");
+        System.out.println("涛神年薪二十万");
+        System.out.println("涛神年薪二十万");
+        System.out.println("涛神年薪二十万");
+    }
+}
